@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: kiweiliuyi@gmail.com
 description: "关于程序与设计"
 keyword: "刘毅,个人网站, 互联网, PHP, Web, JavaScript, 设计"
-url: "https://kiwei.me"              # your host, for absolute URL
+url: "https://kiweiliuyi.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     kiwei
-zhihu_username:     kiwei
-github_username:    kiwei
-twitter_username:   kiwei
+# weibo_username:     kiwei
+# zhihu_username:     kiwei
+github_username:    kiweiliuyi
+# twitter_username:   kiwei
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: kiwei
+disqus_username: kiweiliuyi
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: kiwei.me
+ga_domain: kiweiliuyi.me
 
 
 
