@@ -1,5 +1,5 @@
 = LY blog     
 
-### [View Live Liuyi Blog &rarr;](https://kiwei.github.io)
+### [View Live Liuyi Blog &rarr;](https://kiweiliuyi.github.io)
 
-![](http://kiwei.github.io/img/blog-desktop.jpg)
+![](http://kiweiliuiy.github.io/img/blog-desktop.jpg)
