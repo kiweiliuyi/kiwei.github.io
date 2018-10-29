@@ -1,16 +1,10 @@
-layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2018-10-29 16:20:00
-author:     "kiweiliuyi"
-header-img: "img/post-bg-2015.jpg"
-catalog: true
-tags:
-    - 生活
+| layout | title        | subtitle        | data                | author     | header-img             | catalog | tags  |
+| ------ | ------------ | --------------- | ------------------- | ---------- | ---------------------- | ------- | ----- |
+| post   | "Hello 2018" | "\"Hello Blog"" | 2018-10-29 16:30:30 | kiweiliuyi | "img/post-bg-2015.jpg" | true    | -meta |
 
-    - Meta
 
--It's on.
+
+> It's on.
 
 # 前言
 
