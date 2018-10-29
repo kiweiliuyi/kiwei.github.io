@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: kiweiliuyi@gmail.com
 description: "关于程序与设计"
 keyword: "刘毅,个人网站, 互联网, PHP, Web, JavaScript, 设计"
-url: "https://kiweiliuyi.me"              # your host, for absolute URL
+url: "https://kiweiliuyi.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -72,13 +72,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: kiweiliuyi.me
+ga_domain: kiweiliuyi.giyhub.io
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "I know who I am<br>认清自己，把握自己"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
