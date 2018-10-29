@@ -78,7 +78,7 @@ ga_domain: kiweiliuyi.giyhub.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I know who I am<br>认清自己，把握自己"
+sidebar-about-description: "I know who I am.<br>认清自己，把握自己"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
